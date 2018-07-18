@@ -1,0 +1,20 @@
+.container {
+  text-align: center;
+  width: 90%;
+  margin: 0 auto;
+}
+
+header.header {
+  background-color: #582222;
+  padding: 12px;
+  color: white;
+}
+footer.footer {
+  background-color: #333;
+  padding: 12px;
+  color: #fff;
+}
+
+.header .title {
+  font-size: 1.5em;
+}
